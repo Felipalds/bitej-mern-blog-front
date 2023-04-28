@@ -1,0 +1,22 @@
+.adminForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 200px;
+
+}
+
+.adminForm > *{
+    padding: 10px;
+}
+
+.adminDiv {
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+#bodyHtml { 
+    height: 600px;
+}
