@@ -1,0 +1,15 @@
+.post {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    margin: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+.posts {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
